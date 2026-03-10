@@ -27,6 +27,11 @@ Se siguieron los pasos del [tutorial](https://react.dev/learn/tutorial-tic-tac-t
 
 Se creo el canvas con p5 en el archivo `p5.jsx` como indica el documento del laboratorio, al probrar se puede notar un tresado e inconsistencia en trazos que se hagan demasiado rapido, 
 
+- Verifica que en el arichivo main.jsx estes usando el `P5`
+- Ejecutar front `npm i`,  `npm run dev`
+- Ejecutar [Back](https://github.com/Jared-Farfan/Lab_5_BACK_ARSW_2026-1), `cd Lab_5_back_spring`, `mvn clean install` y `.\mvnw spring-boot:run`
+
+![alt text](img/image.png)
 
 ### Canvas con Socket.io
 
